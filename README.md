@@ -25,7 +25,7 @@ I’m currently working on beginner-friendly data analysis projects to apply my 
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/reet-dubey-908a8033b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - ## Video Introduction
 
-[Watch my intro video](intro-video)
+[Watch my intro video](intro-video.mp4)
 
 
 I’m open to learning opportunities, collaborations, and internships related to data analytics.
