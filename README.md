@@ -1,28 +1,100 @@
 # Hi, I'm Reet Dubey
 
-I’m a student and aspiring Data Analyst with a strong interest in transforming data into meaningful insights. I enjoy working on analytical projects, strengthening my problem-solving skills, and continuously learning new technologies in the data field.
+Aspiring Machine Learning Engineer passionate about building end-to-end ML systems, solving real-world problems with data, and developing strong debugging and experimentation skills.
+
+Currently focused on:
+- Machine Learning Engineering
+- Model Evaluation & Debugging
+- Feature Engineering
+- Imbalanced Classification
+- Deep Learning & MLOps (ongoing learning path)
+
+---
 
 ## Technical Skills
 
-- Programming: Python (Intermediate), SQL (Intermediate), C++ (Basics), Java (Basics)
-- Data Libraries: Pandas, NumPy, Matplotlib
-- Data Skills: Data analysis, exploratory data analysis (EDA), problem solving, basic data visualization
-- Tools & Platforms: VS Code, Google Colab, Git/GitHub
+### Programming & Data
+- Python
+- SQL
+- C++ (Basics)
 
-## Currently Exploring
+### Data Science & Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
-- Advanced data analytics techniques
-- Real-world datasets and case studies
-- Building my first data analysis projects
+### Machine Learning
+- Regression & Classification
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Feature Engineering
+- Data Preprocessing
+- Outlier Detection & Handling
+- Cross-Validation
+- Hyperparameter Tuning
+- ROC-AUC Analysis
+- Precision–Recall Optimization
+- Threshold Tuning
+- Imbalanced Dataset Handling
 
-## Upcoming Projects
+### Tools & Platforms
+- Git & GitHub
+- Jupyter Notebook
+- Google Colab
+- VS Code
+- Streamlit
 
-I’m currently working on beginner-friendly data analysis projects to apply my skills in Python and SQL. These projects will focus on data cleaning, visualization, and extracting insights from real-world datasets.
+---
 
-## Contact
+## Featured Project
+
+### California Housing Price Prediction
+End-to-end regression ML project using the California Housing dataset.
+
+Key highlights:
+- Exploratory Data Analysis (EDA)
+- Outlier Detection using IQR
+- Model comparison across multiple regression algorithms
+- Cross-validation and hyperparameter tuning
+- Residual analysis & feature importance
+- Streamlit deployment for real-time predictions
+
+Tech stack:
+`Python` `Pandas` `Scikit-learn` `Streamlit`
+
+---
+
+## Currently Learning
+
+- Advanced ML Evaluation & Debugging
+- ML System Design
+- Deep Learning & Transformers
+- MLOps & Deployment
+- Experiment Tracking & ML Pipelines
+
+---
+
+## Goals
+
+- Build production-oriented ML projects
+- Strengthen ML engineering and system design skills
+- Contribute to open-source ML projects
+- Prepare for ML Engineer internships and interviews
+
+---
+
+## Connect With Me
 
 - Email: reetdubey25@gmail.com
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/reet-dubey-908a8033b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Add Your LinkedIn Link]
+- GitHub: [Add Your GitHub Link]
+
+---
+
 - ## Video Introduction
 
 [Watch my intro video](intro-video.mp4)
