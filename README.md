@@ -90,8 +90,8 @@ Tech stack:
 ## Connect With Me
 
 - Email: reetdubey25@gmail.com
-- LinkedIn: [Add Your LinkedIn Link]
-- GitHub: [Add Your GitHub Link]
+- LinkedIn: [[Add Your LinkedIn Link](https://www.linkedin.com/in/reet-dubey-908a8033b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+- GitHub: [[Add Your GitHub Link](https://github.com/reet25)]
 
 ---
 
