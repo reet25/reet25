@@ -50,26 +50,43 @@ Currently focused on:
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### California Housing Price Prediction
+### Customer Churn Prediction (Classification + Imbalanced Learning)
+End-to-end machine learning project focused on predicting telecom customer churn using the IBM Telco dataset.
+
+Key highlights:
+- Exploratory Data Analysis (EDA) and customer behavior analysis
+- Feature engineering (tenure buckets, service usage patterns, charge-based features)
+- Handling imbalanced dataset using class weighting
+- Model comparison: Logistic Regression, Decision Tree, Random Forest
+- Threshold tuning for recall optimization
+- Cross-validation for robust evaluation
+- Model interpretation using coefficients and feature importance
+- Streamlit deployment for real-time churn prediction
+
+Tech stack:
+Python, Pandas, NumPy, Scikit-learn, Streamlit
+
+---
+
+### California Housing Price Prediction (Regression)
 End-to-end regression ML project using the California Housing dataset.
 
 Key highlights:
 - Exploratory Data Analysis (EDA)
-- Outlier Detection using IQR
+- Outlier detection using IQR method
 - Model comparison across multiple regression algorithms
 - Cross-validation and hyperparameter tuning
-- Residual analysis & feature importance
+- Residual analysis and feature importance analysis
 - Streamlit deployment for real-time predictions
 
 Tech stack:
-`Python` `Pandas` `Scikit-learn` `Streamlit`
+Python, Pandas, NumPy, Scikit-learn, Streamlit
 
 ---
 
 ## Currently Learning
-
 - Advanced ML Evaluation & Debugging
 - ML System Design
 - Deep Learning & Transformers
@@ -79,7 +96,6 @@ Tech stack:
 ---
 
 ## Goals
-
 - Build production-oriented ML projects
 - Strengthen ML engineering and system design skills
 - Contribute to open-source ML projects
@@ -88,16 +104,11 @@ Tech stack:
 ---
 
 ## Connect With Me
-
 - Email: reetdubey25@gmail.com
-- LinkedIn: [[Reet Dubey](https://www.linkedin.com/in/reet-dubey-908a8033b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
-- GitHub: [[reet25](https://github.com/reet25)]
+- LinkedIn: [Reet Dubey](https://www.linkedin.com/in/reet-dubey-908a8033b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- GitHub: [reet25](https://github.com/reet25)
 
 ---
 
-- ## Video Introduction
-
-[Watch my intro video](intro-video.mp4)
-
-
-I’m open to learning opportunities, collaborations, and internships related to data analytics.
+## Video Introduction
+Watch my intro video: [Intro Video](intro-video.mp4)
